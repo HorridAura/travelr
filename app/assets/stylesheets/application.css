@@ -22,8 +22,6 @@
 	width:100%;
 }
 
-
-
 #resize {
 	width: 140px;
 	height: 140px;
@@ -38,9 +36,12 @@
 	width: 220px;
 }
 
-
-
 .carousel-pics {
 	overflow: hidden;
 
+}
+
+.img {
+	position: absolute;
+	margin-top: auto;
 }
